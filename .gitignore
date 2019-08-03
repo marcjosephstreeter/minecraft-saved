@@ -1,0 +1,5 @@
+logs/*
+apache-*/*
+eula.txt
+BuildTools.log.txt
+spigot-*.jar
