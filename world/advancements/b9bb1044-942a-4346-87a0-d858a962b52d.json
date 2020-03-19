@@ -155,12 +155,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_at_least_9_iron_ingot": "2019-07-14 03:11:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-07-14 03:55:17 +0000"
@@ -200,12 +194,6 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-07-14 02:55:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_at_least_9_coal": "2019-07-14 03:01:23 +0000"
     },
     "done": true
   },
@@ -432,12 +420,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_at_least_9_coal": "2019-07-14 03:01:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-07-14 02:53:34 +0000"
@@ -546,15 +528,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2019-07-14 02:49:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-07-14 02:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-07-14 02:49:41 +0000"
     },
     "done": true
   },
@@ -585,8 +567,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-07-27 20:26:15 +0000",
-      "minecraft:forest": "2019-07-14 02:26:20 +0000",
       "minecraft:mountains": "2019-07-14 03:55:33 +0000",
+      "minecraft:forest": "2019-07-14 02:26:20 +0000",
       "minecraft:beach": "2019-07-27 20:26:11 +0000",
       "minecraft:river": "2019-07-15 19:05:55 +0000",
       "minecraft:wooded_mountains": "2019-07-15 18:49:23 +0000",
@@ -710,21 +692,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2019-07-14 03:11:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2019-07-14 03:11:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
-      "has_at_least_9_iron_nugget": "2019-07-14 03:11:40 +0000"
+      "has_iron_ingot": "2019-07-14 03:11:21 +0000"
     },
     "done": true
   },
@@ -767,12 +743,6 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-07-14 02:40:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_at_least_9_iron_ingot": "2019-07-14 03:11:21 +0000"
     },
     "done": true
   },
@@ -971,5 +941,5 @@
     },
     "done": true
   },
-  "DataVersion": 1968
+  "DataVersion": 2230
 }
