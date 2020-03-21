@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-03-19 15:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-03 20:25:44 +0000"
@@ -759,6 +765,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2019-08-03 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-03-19 19:35:00 +0000"
     },
     "done": true
   },
@@ -2054,6 +2066,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2019-07-30 16:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-03-19 16:01:18 +0000"
     },
     "done": true
   },

@@ -586,6 +586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-03-19 04:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2019-07-11 10:40:07 +0000"
@@ -1145,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-03-19 04:20:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-07-11 10:36:39 +0000"
@@ -1627,6 +1639,7 @@
       "cooked_beef": "2019-07-11 12:03:08 +0000",
       "beef": "2019-07-11 12:18:45 +0000",
       "baked_potato": "2020-03-17 20:43:03 +0000",
+      "porkchop": "2020-03-19 16:02:47 +0000",
       "apple": "2019-07-11 10:38:33 +0000",
       "potato": "2020-03-17 19:47:09 +0000",
       "mutton": "2019-07-30 17:57:49 +0000",
