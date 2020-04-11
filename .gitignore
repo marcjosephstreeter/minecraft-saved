@@ -3,3 +3,6 @@ apache-*/*
 eula.txt
 BuildTools.log.txt
 spigot-*.jar
+
+## OPERATING SYSTEM SPECIFIC
+.DS_STORE
