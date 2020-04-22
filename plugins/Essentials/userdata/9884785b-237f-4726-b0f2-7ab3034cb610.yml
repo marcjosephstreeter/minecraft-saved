@@ -1,0 +1,22 @@
+lastAccountName: Yodeling_Goat
+timestamps:
+  login: 1587493272555
+  lastteleport: 1587259653184
+  logout: 1587524212027
+ipAddress: 127.0.0.1
+afk: false
+lastlocation:
+  world: world
+  x: 177.68928574759894
+  y: 175.4324961621376
+  z: 26.695938949257698
+  yaw: -65.38222
+  pitch: 21.450003
+logoutlocation:
+  world: world
+  x: 236.60334524804503
+  y: 159.0
+  z: 14.199839102225216
+  yaw: 39.8338
+  pitch: 5.0999584
+godmode: false
